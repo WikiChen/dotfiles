@@ -1,6 +1,6 @@
-# holman does dotfiles
+# wikichen does dotfiles
 
-## dotfiles
+## based on holman's dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
 
