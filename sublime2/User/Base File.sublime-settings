@@ -12,5 +12,6 @@
   "rulers": [ 80 ],
   "show_minimap": false,
   "trim_trailing_white_space_on_save": true,
-  "highlight_modified_tabs": true
+  "highlight_modified_tabs": true,
+  "detect_slow_plugins": false
 }
