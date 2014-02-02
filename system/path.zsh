@@ -8,5 +8,5 @@ export PATH=$HOME/.pyenv/shims:$PATH
 export PATH=/usr/local/sbin:$PATH
 export PATH=/usr/local/bin:$PATH
 
-
+export NODE_PATH=/usr/local/share/npm/lib/node_modules
 export MANPATH=/usr/local/man:/usr/local/mysql/man:/usr/local/git/man:$MANPATH
