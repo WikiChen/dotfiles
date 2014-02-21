@@ -2,6 +2,7 @@
 export PATH=./bin:$HOME/.sfs:$ZSH/bin:$PATH
 export PATH=/usr/local/share/npm/bin:$PATH
 export PATH=/Applications/Postgres.app/Contents/MacOS/bin:$PATH
+export PATH=/Applications/Android\ Studio.app/sdk/platform-tools/:$PATH
 
 export PATH=$HOME/.rbenv/shims:$PATH
 export PATH=$HOME/.pyenv/shims:$PATH
