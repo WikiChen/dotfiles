@@ -14,12 +14,7 @@ then
 fi
 
 # Install homebrew packages
-brew install grc coreutils spark
+brew install grc
+brew install coreutils
 
-#brew tap phinze/homebrew-cask
-#brew install brew-cask
-
-# brew cask install alfred
-# brew cask install google-chrome
-# brew cask install sketch
 exit 0
