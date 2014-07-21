@@ -32,6 +32,9 @@ defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
 # Pin the Dock to the starting end of the screen
 defaults write com.apple.dock pinning -string start
 
+# Enable full keyboard access so Tab moves keyboard focus between all controls
+defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
+
 # Run the screensaver if we're in the bottom-left hot corner.
 defaults write com.apple.dock wvous-bl-corner -int 5
 defaults write com.apple.dock wvous-bl-modifier -int 0
