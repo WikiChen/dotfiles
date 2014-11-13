@@ -39,6 +39,9 @@ defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 defaults write com.apple.dock wvous-bl-corner -int 5
 defaults write com.apple.dock wvous-bl-modifier -int 0
 
+# Speed up Mission Control animation
+defaults write com.apple.dock expose-animation-duration -float 0.15
+
 # Hide Safari's bookmark bar.
 defaults write com.apple.Safari ShowFavoritesBar -bool false
 
